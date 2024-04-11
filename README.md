@@ -1,4 +1,4 @@
-# RTO Cobalt Strike Aggressor Script
+# Red Team Ops (Zero-Point Security) Cobalt Strike Aggressor Script
 Cobalt Strike Aggressor script created for RTO course.
 
 Require:
